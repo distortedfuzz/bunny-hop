@@ -8,4 +8,4 @@ This is a basic OpenGL game.
 
 The scoreboard is missing.
 
-Also the code was poorly written due to time constraints.
+Also the code was poorly written bit by bit due to time constraints.
