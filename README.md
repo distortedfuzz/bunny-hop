@@ -1,6 +1,6 @@
-CENG477 HW3
+##CENG477 HW3
 
-Bunny Hop OpenGL Game
+##Bunny Hop OpenGL Game
 
 Grade: 85.0/100.0
 
